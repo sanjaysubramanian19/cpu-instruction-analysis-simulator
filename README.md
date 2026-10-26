@@ -322,3 +322,7 @@ The project includes **44 automated tests** (100% Pass Rate):
 - **AI/ML:** Add bidirectional A* search and dynamic heuristic weighting ($f(n) = g(n) + \epsilon \cdot h(n)$).
 - **DAA:** Implement Fibonacci Heaps to achieve $O(E + V \log V)$ theoretical amortized complexity and all-pairs shortest path algorithms (Floyd-Warshall).
 - **FLAT:** Implement the Subset Construction algorithm (Module 1.9) for complete NFA-to-DFA determinization and Hopcroft's DFA minimization algorithm (Module 2.12).
+
+## 20. Deployment Link:
+
+https://cpu-instruction-analysis-simulator.vercel.app
